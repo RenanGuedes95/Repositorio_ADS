@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\bin\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\bin\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\bin\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\bin\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\bin\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\refint\Exercicio_Ordenacao_PorSelecao.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\Exercicio_Ordenacao_PorSelecao.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorSelecao\obj\Debug\net8.0\ref\Exercicio_Ordenacao_PorSelecao.dll

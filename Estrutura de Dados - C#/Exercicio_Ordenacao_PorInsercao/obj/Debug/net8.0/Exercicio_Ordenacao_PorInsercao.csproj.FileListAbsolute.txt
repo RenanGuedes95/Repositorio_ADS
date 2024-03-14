@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\bin\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\bin\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\bin\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\bin\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\bin\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\refint\Exercicio_Ordenacao_PorInsercao.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\Exercicio_Ordenacao_PorInsercao.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_PorInsercao\obj\Debug\net8.0\ref\Exercicio_Ordenacao_PorInsercao.dll

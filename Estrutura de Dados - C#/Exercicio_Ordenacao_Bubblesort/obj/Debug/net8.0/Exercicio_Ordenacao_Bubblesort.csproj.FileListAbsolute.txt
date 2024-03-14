@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\bin\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\bin\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\bin\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\bin\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\bin\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\refint\Exercicio_Ordenacao_Bubblesort.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\Exercicio_Ordenacao_Bubblesort.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicio_Ordenacao_Bubblesort\obj\Debug\net8.0\ref\Exercicio_Ordenacao_Bubblesort.dll

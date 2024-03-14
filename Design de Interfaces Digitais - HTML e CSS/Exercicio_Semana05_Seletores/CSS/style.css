@@ -1,0 +1,55 @@
+.paragraph{
+    color:rgb(148, 248, 157);
+    text-align: justify;
+}
+
+#rodape{
+    color:rgb(71, 71, 71);
+}
+
+article h1{
+    color:rgb(148, 248, 157);
+    font-size: xx-large;;
+    background-color: rgb(136, 142, 143, 0.5);
+    text-align: center;
+}
+
+article > header{
+    font-size: xx-large;
+    color:rgb(148, 248, 157);
+    font-weight: bold;
+    text-align: center;
+}
+
+a:link{
+    color:blue;
+}
+a:visited{
+    color:blueviolet;
+}
+a:hover{
+    color:red;
+}
+a:focus{
+    color:gray;
+}
+
+article{
+    font-family: sans-serif;
+    font-size: large;
+}
+
+.imagemAlan{
+    text-align: center;
+}
+
+body{
+    background-color:rgb(170, 178, 179);
+}
+
+.separador{
+    text-align: center;
+    width: 100cap;
+    height: 100rcap;
+    color:rgb(136, 142, 143, 0.5);
+}

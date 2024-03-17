@@ -1,0 +1,63 @@
+.texto-pequeno {
+
+    font-size: 0.8rem;
+
+}
+
+.texto-regular {
+
+    font-size: 1rem;
+
+}
+
+.texto-grande {
+
+    font-size: 1.5rem;
+
+}
+
+body{
+    background-color:#CADDE6;
+}
+
+body > p{
+    color: #A68C6F;
+}
+
+h1{
+    color:#002B3D;
+}
+
+div > button{
+    background-color: #002B3D;
+    color:#A68C6F;
+    width: 120px;
+    height:4cap;
+}
+
+#botaoDiminuir{
+    background-color: #A68C6F;
+    color:#002B3D;
+    width: 120px;
+    height:4cap;
+    
+}
+
+#botaoAumentar:hover{
+    background-color: #557F91;
+}
+
+#botaoDiminuir:hover{
+    background-color:#E6D9CA;
+}
+
+h1{
+    font-size:4.5rem;
+    text-align:center;
+}
+
+div{
+    display:flex;
+    justify-content: center;
+    margin:auto;
+}

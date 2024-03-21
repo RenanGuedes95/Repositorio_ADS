@@ -1,55 +1,97 @@
+/* Paleta de cores escolhida: #209BC0 / #327E96 / #00B3EB / #365F6B / #2B3C41 / #2B3133 / #FFFFFF
+A harmonia das cores que escolhi foi a monocromática.
+Escolhi estas cores pois o artigo em tela conta um resumo da vida de Alan Turing, e uma paleta de cores com
+muito contraste, ou com cores com muita energia, podem atrapalhar o usuário em sua leitura, por isso, optei por utilizar a cor azul para
+passar uma sensação de confiança para o leitor, além de, transmitir uma sensação de concentração e calma.*/
 .paragraph{
-    color:rgb(148, 248, 157);
+    color:#FFFFFF;
     text-align: justify;
+    background-color: #00B3EB;
 }
 
 #rodape{
-    color:rgb(71, 71, 71);
+    color:#2B3C41;
+    font-size:medium;
 }
 
-article h1{
-    color:rgb(148, 248, 157);
-    font-size: xx-large;;
-    background-color: rgb(136, 142, 143, 0.5);
-    text-align: center;
+div h2{
+    color:#327E96;
+    background-color: #FFFFFF;
+    text-align:left;
+    font-size: 3rem;
 }
 
-article > header{
-    font-size: xx-large;
-    color:rgb(148, 248, 157);
+body > header{
+    color: #327E96;
+    background-color: #FFFFFF;
     font-weight: bold;
+    font-size:4rem;
+    grid-area: cabecalho;
     text-align: center;
 }
 
 a:link{
-    color:blue;
+    color:#2B3C41;
 }
 a:visited{
-    color:blueviolet;
+    color:#365F6B;
 }
 a:hover{
-    color:red;
+    color:#209BC0;
 }
 a:focus{
-    color:gray;
+    color:#327E96;
 }
 
-article{
-    font-family: sans-serif;
-    font-size: large;
-}
-
-.imagemAlan{
-    text-align: center;
+.imagemAlan{ 
+    max-width: 100%;
+    max-height: 100%;
 }
 
 body{
-    background-color:rgb(170, 178, 179);
+    font-family: sans-serif;
+    font-size: large;
+    background-color:#00B3EB;
+    display:grid;
+    grid-template-rows: 100px auto auto auto auto 50px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "cabecalho cabecalho"
+    "pessoal imagemAlan"
+    "profissional importancia"
+    "bombe enigma"
+    "legado ."
+    "rodape rodape";
+    gap: 10px;
+    row-gap: 5px;
 }
 
-.separador{
+div .separador{
+    max-width: 70%;
+    color:#327E96;
+}
+#pessoal{
+    grid-area:pessoal;
+}
+#profissional{
+    grid-area:profissional;
+}
+#importancia{
+    grid-area:importancia;
+}
+#bombe{
+    grid-area:bombe;
+}
+#enigma{
+    grid-area:enigma;
+}
+#legado{
+    grid-area:legado;
+}
+.rodape{
+    grid-area:rodape;
+}
+#imagemAlan{
+    grid-area:imagemAlan;
     text-align: center;
-    width: 100cap;
-    height: 100rcap;
-    color:rgb(136, 142, 143, 0.5);
 }

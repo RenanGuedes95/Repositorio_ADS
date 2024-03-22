@@ -1,6 +1,6 @@
 /* Paleta de cores escolhida: #209BC0 / #327E96 / #00B3EB / #365F6B / #2B3C41 / #2B3133 / #FFFFFF
 Optei por uma paleta de cores monocromática, com algumas variações de azul aliadas ao branco.
-Por ser um artigo onde é apresentada uma quantidade grande de texto, utilizei a cor azul como background para transmitir ao usuário uma sensação de tranquilidade e calma para leitura. Além disso,
+Por ser um artigo onde é apresentada uma quantidade grande de texto, utilizei a cor azul como background para transmitir ao usuário uma sensação de tranquilidade e calma para leitura, visto não ser uma das cores com maior energia. Além disso,
 o azul transmite confiança ao usuário. Usei os tons de branco como background dos títulos e também na letra dos parágrafos para também facilitar a leitura.*/
 .paragraph{
     color:#FFFFFF;
@@ -59,7 +59,7 @@ body{
     "pessoal imagemAlan"
     "profissional importancia"
     "bombe enigma"
-    "legado ."
+    "legado legado"
     "rodape rodape";
     gap: 10px;
     row-gap: 5px;

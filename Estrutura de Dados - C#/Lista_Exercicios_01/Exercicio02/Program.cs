@@ -1,25 +1,8 @@
-Questão 01:
-internal class Program{
-    public static void Main(string[] args){
-        
-        Console.Write("Digite um número inteiro e positivo: ");
-        int num = Convert.ToInt32(Console.ReadLine());
+﻿// Faça uma função que receba um vetor de números inteiros por parâmetro e multiplique por -1 todos os elementos negativos desse vetor. A função deve retornar o número de elementos negativos encontrados. Restrição: não utilize comandos de repetição.
 
-        imprimeIntervalo(num);
-    }
+internal class Program
+{
 
-    public static void imprimeIntervalo(int numero){
-        if (numero > 1){
-            imprimeIntervalo(numero - 1);
-            if(numero % 2 == 0 && numero % 3 == 0){
-            Console.WriteLine(numero);
-            }          
-        }
-    }
-}
-
-Questão 02:
-internal class Program{
     public static int informaQuantidadeNegativos(int[] vetor, int indice = 0, int quantidadeDeNegativos = 0)
     {
         int tamanhoVetor = vetor.Length;

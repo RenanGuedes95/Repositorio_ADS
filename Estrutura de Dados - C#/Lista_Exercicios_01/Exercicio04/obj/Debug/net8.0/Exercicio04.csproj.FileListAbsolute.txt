@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\bin\Debug\net8.0\Exercicio04.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\bin\Debug\net8.0\Exercicio04.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\bin\Debug\net8.0\Exercicio04.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\bin\Debug\net8.0\Exercicio04.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\bin\Debug\net8.0\Exercicio04.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\refint\Exercicio04.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\Exercicio04.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_01\Exercicio04\obj\Debug\net8.0\ref\Exercicio04.dll

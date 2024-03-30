@@ -1,0 +1,11 @@
+.layout{
+    display: grid;
+    grid-template-columns: 2fr 4fr 2fr;
+    grid-template-rows: 1fr 4fr repeat(3, 1fr);
+    grid-template-areas:
+    "header menu menu"
+    "hero hero hero"
+    "main main image"
+    "main main extra"
+    "banner banner banner";
+}

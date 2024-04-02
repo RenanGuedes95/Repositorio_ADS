@@ -5,7 +5,7 @@ using System.Reflection.Metadata;
 
 namespace Exercicio04;
 
-class Program
+internal class Program
 {
     public static int retornaNumerodeTrocas(int[] vetorInteiros)
     {

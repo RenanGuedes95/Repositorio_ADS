@@ -44,3 +44,78 @@ internal class Program{
         Console.WriteLine($"\nNeste vetor existem {informaQuantidadeNegativos(vetorInteiros)} números negativos");
     }
 }
+
+Questão 03:
+internal class Program
+{
+    public static void InformaAposentadoria(double valorSeparado, double valorRetiradoMensal, int meses = 0){
+        if(valorRetiradoMensal >= valorSeparado){
+            Console.Write("ALERTA: O valor em sua conta é menor do que o valor que deseja retirar.\n");
+            Console.Write($"Você poderá retirar o seu dinheiro por {meses} meses");
+            return;
+        }else{
+                valorSeparado -= valorRetiradoMensal;
+                valorSeparado += valorSeparado * 0.0055;
+                meses++;
+                Console.WriteLine($"Mes {meses}: {valorSeparado:C2} após a correção e retirada");
+                InformaAposentadoria(valorSeparado, valorRetiradoMensal, meses);
+            }
+    }
+    static void Main(string[] args)
+    {
+        Console.Write("Digite o valor total separado para aposentadoria: ");
+        double valorSeparado = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Digite o valor que quer resgatar mensalmente: ");
+        double valorRetiradoMensal = Convert.ToDouble(Console.ReadLine());
+
+        InformaAposentadoria(valorSeparado, valorRetiradoMensal);
+    }
+}
+
+Questão 04:
+internal class Program
+{
+    public static int retornaNumerodeTrocas(int[] vetorInteiros)
+    {
+        int quantidadeTrocas = 0;
+        int fim = vetorInteiros.Length - 1;
+        do
+        {
+            for (int i = 0; i < fim; i++)
+            {
+                if (vetorInteiros[i] > vetorInteiros[i + 1])
+                {
+                    TrocaIndices(vetorInteiros, i, i+1);
+                    quantidadeTrocas++;
+                }
+            }
+            fim--;
+        } while (fim > 0);
+        return quantidadeTrocas;
+    }
+
+    public static void TrocaIndices(int[] vetor, int i, int j)
+    {
+        int auxiliar = vetor[j];
+        vetor[j] = vetor[i];
+        vetor[i] = auxiliar;
+    }
+
+    public static void imprimeVetorOrdenado(int[] vetor)
+    {
+        foreach (var indice in vetor)
+        {
+            Console.Write($"{indice} ");
+        }
+    }
+
+    static void Main(string[] args)
+    {
+        var vetorInteiros = new int[] { 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 };
+
+        int numeroDeTrocas = retornaNumerodeTrocas(vetorInteiros);
+        imprimeVetorOrdenado(vetorInteiros);
+        Console.Write($"\nPara ordenar este vetor foram realizadas {numeroDeTrocas} trocas.");
+    }
+}

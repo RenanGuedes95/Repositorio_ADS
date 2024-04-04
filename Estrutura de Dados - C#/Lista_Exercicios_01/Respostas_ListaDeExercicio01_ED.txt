@@ -21,7 +21,9 @@ internal class Program{
 }
 
 Questão 02:
-internal class Program{
+internal class Program
+{
+
     public static int informaQuantidadeNegativos(int[] vetor, int indice = 0, int quantidadeDeNegativos = 0)
     {
         int tamanhoVetor = vetor.Length;

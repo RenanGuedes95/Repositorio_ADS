@@ -9,7 +9,9 @@ internal class Program{
     }
 
     public static void imprimeIntervalo(int numero){
-        if (numero > 1){
+        if(numero == 0){
+           return;
+        }else{
             imprimeIntervalo(numero - 1);
             if(numero % 2 == 0 && numero % 3 == 0){
             Console.WriteLine(numero);

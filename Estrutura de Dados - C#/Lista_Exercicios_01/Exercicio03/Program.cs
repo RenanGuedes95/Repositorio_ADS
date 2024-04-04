@@ -3,7 +3,7 @@ using System.Reflection.Metadata.Ecma335;
 
 namespace Exercicio03;
 
-class Program
+internal class Program
 {
     public static void InformaAposentadoria(double valorSeparado, double valorRetiradoMensal, int meses = 0){
         if(valorRetiradoMensal >= valorSeparado){

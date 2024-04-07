@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\bin\Debug\net8.0\Questao02.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\bin\Debug\net8.0\Questao02.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\bin\Debug\net8.0\Questao02.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\bin\Debug\net8.0\Questao02.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\bin\Debug\net8.0\Questao02.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\refint\Questao02.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\Questao02.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova01\Questao02\obj\Debug\net8.0\ref\Questao02.dll

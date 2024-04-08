@@ -16,9 +16,11 @@ internal class Program
         var atleta6 = new Atleta("Juquinha", 30, 1.90, 56.00);
 
         var atletas = new Atleta[] { atleta1, atleta2, atleta3, atleta4, atleta5, atleta6 };
-
+        imprimeVetor(atletas);
+        Console.WriteLine();
         //bubbleSort(atletas);
-        insertSort(atletas);
+        //insertSort(atletas);
+        selectionSort(atletas);
         imprimeVetor(atletas);
     }
 
@@ -38,15 +40,37 @@ internal class Program
         } while (fim > 0);
     }
 
-    private static void insertSort(Atleta [] atletas){
-        for(int i = 1; i < atletas.Length; i++){
+    private static void insertSort(Atleta[] atletas)
+    {
+        for (int i = 1; i < atletas.Length; i++)
+        {
             Atleta chave = atletas[i];
             int j = i - 1;
-            while(j >= 0 && chave.Peso < atletas[j].Peso){
-                atletas[j+1] = atletas[j];
+            while (j >= 0 && chave.Peso < atletas[j].Peso)
+            {
+                atletas[j + 1] = atletas[j];
                 j--;
             }
-            atletas[j+1] = chave;
+            atletas[j + 1] = chave;
+        }
+    }
+
+    private static void selectionSort(Atleta[] atletas)
+    {
+        for (int i = 0; i < atletas.Length - 1; i++)
+        {
+            int menorElemento = i;
+            for (int j = i + 1; j < atletas.Length; j++)
+            {
+                if (atletas[j].Peso < atletas[menorElemento].Peso)
+                {
+                    menorElemento = j;
+                }
+            }
+            if (i != menorElemento)
+                {
+                    trocaElementos(atletas, i, menorElemento);
+                }
         }
     }
 

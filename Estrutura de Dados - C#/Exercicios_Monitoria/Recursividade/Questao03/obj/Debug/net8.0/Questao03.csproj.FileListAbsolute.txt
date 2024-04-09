@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\bin\Debug\net8.0\Questao03.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\bin\Debug\net8.0\Questao03.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\bin\Debug\net8.0\Questao03.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\bin\Debug\net8.0\Questao03.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\bin\Debug\net8.0\Questao03.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\refint\Questao03.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\Questao03.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Monitoria\Recursividade\Questao03\obj\Debug\net8.0\ref\Questao03.dll

@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\bin\Debug\net8.0\Questão06.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\bin\Debug\net8.0\Questão06.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\bin\Debug\net8.0\Questão06.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\bin\Debug\net8.0\Questão06.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\bin\Debug\net8.0\Questão06.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\refint\Questão06.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\Questão06.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercícios_Apostila_OrdenacaoDeVetor\Questão06\obj\Debug\net8.0\ref\Questão06.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio01_Recursividade/1.0.0": {
+        "runtime": {
+          "Exercicio01_Recursividade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio01_Recursividade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

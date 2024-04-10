@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\bin\Debug\net8.0\Exercicio02_Recursividade.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\bin\Debug\net8.0\Exercicio02_Recursividade.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\bin\Debug\net8.0\Exercicio02_Recursividade.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\bin\Debug\net8.0\Exercicio02_Recursividade.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\bin\Debug\net8.0\Exercicio02_Recursividade.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\refint\Exercicio02_Recursividade.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\Exercicio02_Recursividade.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Exercicios_Extras\Exercicio02_Recursividade\obj\Debug\net8.0\ref\Exercicio02_Recursividade.dll

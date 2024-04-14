@@ -26,7 +26,7 @@ internal class Program{
     public static void bubbleSort(Produto [] vetorProdutos){
         for(int i = 0; i < vetorProdutos.Length; i++){
             for(int j = 0; j < vetorProdutos.Length - i - 1; j++){
-                if (vetorProdutos[j].Codigo < vetorProdutos[j + 1].Codigo){
+                if (vetorProdutos[j].Codigo > vetorProdutos[j + 1].Codigo){
                     Troca(vetorProdutos, j, j + 1);
                 }
             }

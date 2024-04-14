@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cobertura
+comment1.params=
+comment1.target=Cobertura()
+comment2.params=
+comment2.target=boolean\ isDuplex()
+comment3.params=duplex
+comment3.target=void\ setDuplex(boolean)
+comment4.params=
+comment4.target=boolean\ isTriplex()
+comment5.params=triplex
+comment5.target=void\ setTriplex(boolean)
+comment6.params=
+comment6.target=double\ valorVenal()
+numComments=7

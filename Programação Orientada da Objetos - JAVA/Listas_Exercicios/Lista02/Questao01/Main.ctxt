@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ menu()
+comment3.params=turma
+comment3.target=void\ imprimirCandidatos(Turma)
+comment4.params=turma
+comment4.target=Aluno\ verificaResultadoEleicao(Turma)
+comment5.params=turma
+comment5.target=void\ cadastarAlunos(Turma)
+numComments=6

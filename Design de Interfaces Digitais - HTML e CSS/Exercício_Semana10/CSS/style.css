@@ -1,0 +1,144 @@
+/* Paleta de cores escolhida: #209BC0 / #327E96 / #00B3EB / #365F6B / #2B3C41 / #2B3133 / #FFFFFF
+Optei por uma paleta de cores monocromática, com algumas variações de azul aliadas ao branco.
+Por ser um artigo onde é apresentada uma quantidade grande de texto, utilizei a cor azul como background para transmitir ao usuário uma sensação de tranquilidade e calma para leitura, visto não ser uma das cores com maior energia. Além disso,
+o azul transmite confiança ao usuário. Usei os tons de branco como background dos títulos e também na letra dos parágrafos para também facilitar a leitura.*/
+*{
+    margin:0;
+    padding: 0;
+}
+.paragraph {
+    color: #FFFFFF;
+    text-align: justify;
+    background-color: #00B3EB;
+}
+
+div > p {
+    margin: 50px 25px;
+    padding: 15px;
+}
+
+#rodape {
+    color: #2B3C41;
+    font-size: medium;
+}
+
+div h2 {
+    color: #327E96;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 3rem;
+    margin: 50px 25px;
+    padding: 15px;
+    border-radius: 15px;
+    border-style:solid;
+}
+
+body > header {
+    color: #327E96;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    font-size: 4rem;
+    grid-area: cabecalho;
+    text-align: center;
+    margin: 10px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+a:link {
+    color: #2B3C41;
+}
+
+a:visited {
+    color: #365F6B;
+}
+
+a:hover {
+    color: #209BC0;
+}
+
+a:focus {
+    color: #327E96;
+}
+
+.imagemAlan {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;    
+}
+
+body {
+    font-family: sans-serif;
+    font-size: large;
+    background-color: #00B3EB;
+    display: grid;
+        grid-template-rows: 200px repeat(4, auto) 50px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "cabecalho cabecalho"
+            "pessoal imagemAlan"
+            "profissional importancia"
+            "bombe enigma"
+            "legado legado"
+            "rodape rodape";
+    
+    @media (max-width: 425px) {
+        
+        grid-template-rows: 100px repeat(8, auto) 50px;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "cabecalho"
+            "cabecalho"
+            "imagemAlan"
+            "pessoal"
+            "profissional"
+            "importancia"
+            "bombe"
+            "enigma"
+            "legado"
+            "rodape";
+        div h2{
+            font-size: 2rem;
+        }
+    }
+}
+
+div > .separador{
+    color: #FFFFFF;
+    margin: 50px;
+}
+
+#pessoal {
+    grid-area: pessoal;
+}
+
+#profissional {
+    grid-area: profissional;
+}
+
+#importancia {
+    grid-area: importancia;
+}
+
+#bombe {
+    grid-area: bombe;
+}
+
+#enigma {
+    grid-area: enigma;
+}
+
+#legado {
+    grid-area: legado;
+}
+
+.rodape {
+    grid-area: rodape;
+    margin: 15px 5px;
+    text-align: justify;
+}
+
+#imagemAlan {
+    grid-area: imagemAlan;
+    text-align: center;
+}

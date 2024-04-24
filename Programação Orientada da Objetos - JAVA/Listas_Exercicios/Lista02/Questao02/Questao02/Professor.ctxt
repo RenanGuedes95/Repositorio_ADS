@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=
+comment1.target=Professor()
+comment2.params=nome
+comment2.target=Professor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.util.ArrayList\ getListaDisciplinas()
+comment6.params=disciplina
+comment6.target=void\ addDisciplina(Disciplina)
+comment7.params=
+comment7.target=int\ retornaTotalHorasAula()
+comment8.params=
+comment8.target=double\ calculaSalario()
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Graduado
+comment1.params=
+comment1.target=Graduado()
+comment2.params=nome
+comment2.target=Graduado(java.lang.String)
+comment3.params=
+comment3.target=double\ calculaSalario()
+numComments=4

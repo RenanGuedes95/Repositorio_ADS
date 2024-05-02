@@ -1,0 +1,173 @@
+body{
+    --primary-color:#fbac18;
+    --second-color: #28397f;
+    
+    min-width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.2fr 0.2fr 6fr 0.2fr;
+    grid-template-areas: 
+    "header header"
+    "menu menu"
+    "content content"
+    "footer footer";
+}
+
+@media (max-width:425px){
+    body{
+        min-width: 100vw;
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: 0.2fr 0.2fr 6fr 0.2fr;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "header"
+        "menu"
+        "content"
+        "footer";
+    }
+    .info{
+        display: grid;
+        grid-template-rows: repeat(10,1fr);
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "Fallen"
+        "Fer"
+        "Coldzera"
+        "Taco"
+        "Kngv"
+        "Kscerato"
+        "Yuurih"
+        "Boltz"
+        "Insani"
+        "Art";
+    }
+
+    #Fallen{
+        grid-area: Fallen;
+    }
+    #Fer{
+        grid-area: Fer;
+    }
+    #Coldzera{
+        grid-area: Coldzera;
+    }
+    #Taco{
+        grid-area: Taco;
+    }
+    #Kngv{
+        grid-area: Kngv;
+    }
+    #Kscerato{
+        grid-area: Kscerato;
+    }
+    #Yuurih{
+        grid-area: Yuurih;
+    }
+    #Boltz{
+        grid-area: Boltz;
+    }
+    #Insani{
+        grid-area: Insani;
+    }
+    #Art{
+        grid-area: Art;
+    }
+    .player{
+        display: flex;
+        background-color: var(--primary-color) ;
+        flex-direction: column;
+    }
+    
+    .player2{
+        display: flex;
+        background-color: var(--second-color);
+        flex-direction: column;
+    }
+
+    .description{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        font-size: 40rem;
+    }
+
+    div > img{
+        margin: 25px 25px;
+        padding: 0px;
+    }
+
+    div > h1{
+        font-size: 1rem;
+    }
+}
+
+
+#menu{
+    grid-area: menu;
+    display:grid;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+body > header{
+    grid-area: header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    grid-area: content;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    overflow: auto;
+}
+
+.player{
+    display: flex;
+    background-color:var(--primary-color);
+    border: solid 3px var(--second-color);    
+}
+
+.player2{
+    display: flex;
+    background-color: var(--second-color);
+    border: solid 3px var(--primary-color);
+}
+
+.player, .player2{
+    border-radius: 15px;
+    border-style:outset;
+    margin: 10px 25px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px 15px;
+    padding: 5px;
+    background: #FFFFFF;
+    border-style: none;
+    border-radius: 15px;
+    font-size: 1.5rem;
+}
+
+.highlights{
+    font-weight:bold;
+}
+
+div > img{
+    margin: 50px 25px;
+    padding: 0px;
+}
+
+div > h1{
+    font-size: 2rem;
+}

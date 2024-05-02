@@ -93,6 +93,7 @@ body{
         align-items: center;
         flex-wrap: wrap;
         font-size: 40rem;
+        width: 350px;
     }
 
     div > img{
@@ -151,6 +152,7 @@ body > header{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    width: 350px;
     margin: 20px 15px;
     padding: 5px;
     background: #FFFFFF;

@@ -106,7 +106,6 @@ body{
     }
 }
 
-
 #menu{
     grid-area: menu;
     display:grid;

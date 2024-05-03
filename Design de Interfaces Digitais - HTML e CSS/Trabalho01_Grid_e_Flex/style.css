@@ -1,37 +1,132 @@
 body{
-    --primary-color:#fbac18;
-    --second-color: #28397f;
+    --primary-color:rgb(251, 172, 24, 0.7);
+    --second-color: rgb(40, 57, 127, 0.7);
     
-    min-width: 100vw;
-    min-height: 100vh;
+    background: linear-gradient(to bottom, rgba(212, 212, 212, 0.8), rgba(10, 10, 10, 0.2));
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 0.2fr 0.2fr 6fr 0.2fr;
+    grid-template-rows: 0.2fr 0.2fr repeat(5,2fr) 0.2fr;
     grid-template-areas: 
     "header header"
     "menu menu"
-    "content content"
+    "Fallen Fer"
+    "Coldzera Taco"
+    "Kngv Kscerato"
+    "Yuurih Boltz"
+    "Insani Art"
     "footer footer";
 }
 
-@media (max-width:425px){
+#Fallen{
+    grid-area: Fallen;
+}
+#Fer{
+    grid-area: Fer;
+}
+#Coldzera{
+    grid-area: Coldzera;
+}
+#Taco{
+    grid-area: Taco;
+}
+#Kngv{
+    grid-area: Kngv;
+}
+#Kscerato{
+    grid-area: Kscerato;
+}
+#Yuurih{
+    grid-area: Yuurih;
+}
+#Boltz{
+    grid-area: Boltz;
+}
+#Insani{
+    grid-area: Insani;
+}
+#Art{
+    grid-area: Art;
+}
+
+#menu{
+    grid-area: menu;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+header{
+    grid-area: header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player{
+    display: flex;
+    background-color:var(--primary-color);
+    border: solid 3px var(--second-color);
+    margin: 30px 50px 80px 30px;
+}
+
+.player2{
+    display: flex;
+    background-color: var(--second-color);
+    border: solid 3px var(--primary-color);
+    margin: 30px 30px 80px 50px;
+}
+
+.player, .player2{
+    justify-content: space-between;
+    border-radius: 15px;
+    border-style:outset;
+    max-width: 80vw;
+    max-height: 30vh;
+    min-width: 800px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    min-width: 15vw;
+    max-width: 15vw;
+    margin: 20px 15px;
+    padding: 0px 10px;
+    background: #FFFFFF;
+    border-style: none;
+    border-radius: 15px;
+    font-size: 1.0vw;
+}
+
+.highlights{
+    font-weight:bold;
+}
+
+.playerImage > img{
+    margin: 0px 10px 10px 10px;
+    padding: 0px 10px 25px 10px;
+    max-width: 25vw;
+    min-width: 25vw;
+    max-height: 35vh;
+    min-height: 35vh;
+}
+
+div > h1{
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+@media (max-width:1024px){
     body{
-        min-width: 100vw;
-        min-height: 100vh;
-        display: grid;
-        grid-template-rows: 0.2fr 0.2fr 6fr 0.2fr;
+        place-items: center;
+        grid-template-rows: 0.2fr 0.2fr repeat(10,2fr) 0.2fr;
         grid-template-columns: 1fr;
         grid-template-areas: 
         "header"
         "menu"
-        "content"
-        "footer";
-    }
-    .info{
-        display: grid;
-        grid-template-rows: repeat(10,1fr);
-        grid-template-columns: 1fr;
-        grid-template-areas: 
         "Fallen"
         "Fer"
         "Coldzera"
@@ -41,134 +136,124 @@ body{
         "Yuurih"
         "Boltz"
         "Insani"
-        "Art";
+        "Art"
+        "footer";
     }
 
-    #Fallen{
-        grid-area: Fallen;
-    }
-    #Fer{
-        grid-area: Fer;
-    }
-    #Coldzera{
-        grid-area: Coldzera;
-    }
-    #Taco{
-        grid-area: Taco;
-    }
-    #Kngv{
-        grid-area: Kngv;
-    }
-    #Kscerato{
-        grid-area: Kscerato;
-    }
-    #Yuurih{
-        grid-area: Yuurih;
-    }
-    #Boltz{
-        grid-area: Boltz;
-    }
-    #Insani{
-        grid-area: Insani;
-    }
-    #Art{
-        grid-area: Art;
-    }
     .player{
         display: flex;
         background-color: var(--primary-color) ;
-        flex-direction: column;
+        margin: 10px 10px 10px 0px;
     }
     
     .player2{
         display: flex;
         background-color: var(--second-color);
-        flex-direction: column;
+        margin: 10px 10px 10px 0px;
+    }
+
+    .player, .player2{
+        margin: 70px 10px;
+        flex-direction: row;
+        min-width: 95vw;
+        max-width: 95vw;
+        min-height: 15vh;
+        max-height: 15vh;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .playerImage > img{
+        padding: 100px 10px 10px 0px;
+        margin: 40px;
+        min-width: 35vw;
+        max-width: 35vw;
+        min-height: 20vh;
+        max-height: 20vh;
     }
 
     .description{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-        font-size: 40rem;
-        width: 350px;
-    }
-
-    div > img{
-        margin: 25px 25px;
-        padding: 0px;
+        font-size: 2.5vw;
+        min-width: 35vw;
+        max-width: 35vw;
+        min-height: 10vh;
+        max-height: 10vh;
+        margin: 0px 10px 10px 10px
     }
 
     div > h1{
-        font-size: 1rem;
+        display: flex;
+        font-size: 2rem;
+        align-items: center;
+        justify-content: flex-end;
     }
 }
 
-#menu{
-    grid-area: menu;
-    display:grid;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-}
+@media (max-width: 480px){
+    body{
+        grid-template-rows: 0.2fr 0.2fr repeat(10,2fr) 0.2fr;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "header"
+        "menu"
+        "Fallen"
+        "Fer"
+        "Coldzera"
+        "Taco"
+        "Kngv"
+        "Kscerato"
+        "Yuurih"
+        "Boltz"
+        "Insani"
+        "Art"
+        "footer";
+    }
 
-body > header{
-    grid-area: header;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+    #menu{
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
 
-.info{
-    grid-area: content;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    overflow: auto;
-}
+    .player{
+        display: flex;
+        background-color: var(--primary-color) ;
+        margin: 10px 10px 10px 0px;
+    }
+    
+    .player2{
+        display: flex;
+        background-color: var(--second-color);
+        margin: 10px 10px 10px 0px;
+    }
 
-.player{
-    display: flex;
-    background-color:var(--primary-color);
-    border: solid 3px var(--second-color);    
-}
+    .player, .player2{
+        flex-direction: column;
+        max-height: 75vh;
+        min-width: 85%;
+        min-height: 85%;
+        justify-content: space-around;
+        align-items: center;
+    }
 
-.player2{
-    display: flex;
-    background-color: var(--second-color);
-    border: solid 3px var(--primary-color);
-}
+    .playerImage > img{
+        padding: 0px 10px 10px 0px;
+        margin: 25px;
+        width: 85%;
+        max-width: 85%;
+        min-width: 85%;
+    }
 
-.player, .player2{
-    border-radius: 15px;
-    border-style:outset;
-    margin: 10px 25px;
-}
+    .description{
+        font-size: 1.5rem;
+        min-width: 85%;
+        margin: 0px 10px 10px 10px
+    }
 
-.description{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    width: 350px;
-    margin: 20px 15px;
-    padding: 5px;
-    background: #FFFFFF;
-    border-style: none;
-    border-radius: 15px;
-    font-size: 1.5rem;
-}
-
-.highlights{
-    font-weight:bold;
-}
-
-div > img{
-    margin: 50px 25px;
-    padding: 0px;
-}
-
-div > h1{
-    font-size: 2rem;
+    div > h1{
+        display: flex;
+        font-size: 2rem;
+        align-items: center;
+        justify-content: flex-end;
+    }
 }

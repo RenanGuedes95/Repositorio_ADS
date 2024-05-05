@@ -126,7 +126,7 @@ header > img{
     border-radius: 15px;
     border-style:outset;
     width: 40vw;
-    min-width: 420px;
+    min-width: 520px;
     height: 35vh;
 }
 
@@ -137,7 +137,7 @@ header > img{
     align-items: flex-start;
     flex-wrap:nowrap;
     width:15vw;
-    min-width: 200px;
+    min-width: 250px;
     height: 35vh;
     max-height: 800px;
     margin: 0px 15px 24px -50px;
@@ -162,15 +162,16 @@ header > img{
 .name{
     display: flex;
     text-align: center;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin-top: 10px;
+    margin-bottom: -10px;
 }
 
 .info{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 @media (max-width:768px){

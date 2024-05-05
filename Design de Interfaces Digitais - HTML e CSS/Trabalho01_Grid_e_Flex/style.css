@@ -79,6 +79,7 @@ body{
 .btnMenu{
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: var(--primary-color);
     height: 30px;
     margin: 0px 25px;
@@ -110,13 +111,13 @@ header > img{
 .player{
     background-color:var(--primary-color);
     border: solid 3px var(--second-color);
-    margin: 20px 30px 40px 30px;
+    margin: 45px 30px;
 }
 
 .player2{
     background-color: var(--second-color);
     border: solid 3px var(--primary-color);
-    margin: 20px 30px;
+    margin: 45px 30px;
 }
 
 .player, .player2{
@@ -158,15 +159,18 @@ header > img{
     object-fit: cover;
 }
 
-div > h1{
+.name{
+    display: flex;
     text-align: center;
-    font-size: 3vh;
-    margin: 15px 0px 5px 0px ;
+    font-size: 0.8rem;
+    margin-top: 10px;
 }
 
-dl > dt{
-    font-size: 2vh;
-    margin-top: 0.5rem;
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 1rem;
 }
 
 @media (max-width:768px){
@@ -228,26 +232,27 @@ dl > dt{
     .playerImage > img{
         padding: 10px 10px 5px 0px;
         margin: 20px;
-        min-width: 50vw;
+        min-width: 40vw;
+        max-width: 40vw;
         min-height: 60vh;
-        object-fit: cover;
     }
 
     .description{
         justify-content: center;
         align-items: flex-start;
         margin: 0px 10px 10px -100px;
-        min-width: 25vw;
-        height: 40vh;
+        min-width: 50vw;
+        max-width: 50vw;
+        min-height: 45vh;
     }
 
-    div > h1{
-        margin-bottom: 30px;
-        font-size: 3vh;
+    .name{
+        margin-bottom: 10px;
+        font-size: 1.0rem;
     }
 
-    dl > dt{
-        font-size: 2vh;
+    .info{
+        font-size: 1.2rem;
     }
 }
 
@@ -269,7 +274,6 @@ dl > dt{
         "Insani"
         "Art"
         "footer";
-        place-items: center;
     }
 
     header{
@@ -288,7 +292,7 @@ dl > dt{
     }
 
     .btnMenu{
-        width: auto;
+        width: 150px;
         height: 30px;
         margin: 5px 5px;
         padding-left: 20px;
@@ -311,32 +315,31 @@ dl > dt{
         align-items: center;
         width: 85vw;
         min-width: 265px;
-        height: 80vh;
+        min-height: 100vh;
     }
 
     .description{
-        width: 75vw;
+        max-width: 90vw;
         min-width: 250px;
-        height: 30vh;
-        margin: -80px 10px 10px 10px
+        min-height: 30vh;
+        margin: -50px 10px 10px 10px
     }
 
     .playerImage > img{
         padding: 0px 10px 10px 15px;
         margin: 10px 25px;
-        width: 60vw;
-        min-width: 256px;
-        height: 30vh;
-        object-fit: none;
+        min-width: 75vw;
+        max-width: 256px;
+        max-height: 45vh;
+        
     }
 
-    div > h1{
-        display: flex;
-        font-size: 2.5vh;
-        margin-bottom: 10px;
+    .name{
+        font-size: 0.8rem;
     }
 
-    dl > dt{
-        font-size: 2vh;
+    .info{
+        font-size: 1.2rem;
+        margin-top: -25px;
     }
 }

@@ -1,3 +1,8 @@
+/*Meu projeto é composto por cards de dez jogadres de Counter Strike com suas principais informações.
+  Escolhi esta paleta de cores pois são as mesmas utilizadas na logo e nos ícones do jogo. Utilizei opacidade para melhorar a exibição e em áreas que possuem texto utilizei um fundo que tem um bom contraste com a cor das letras.
+  Quanto ao layout da página, utilizei o display grid para dividir o body em 2 colunas e utilizei o display flex para dispor os itens dentro das divs. As fotos dos jogadores no media query do desktop e tablet coloquei propositalmente maior que o elemento pai para gerar um efeito na tela.
+  Dividi a parte do conteúdo em duas colunas para que a página fique equilibrada, tendo um equilibrio simétrico, quanto ao ritmo, é constante. As imagens com proporção um pouco maior dão enfâse nas mesmas.*/
+
 html{
     margin: 0;
     padding: 0;

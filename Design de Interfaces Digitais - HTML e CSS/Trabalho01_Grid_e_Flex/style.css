@@ -108,7 +108,8 @@ header{
 }
 
 header > img{
-    width: 300px;
+    width: 20vw;
+    object-fit:contain;
 }
 
 .player{
@@ -300,7 +301,6 @@ header > img{
 
     header > img{
         width: 50vw;
-        object-fit:scale-down;
     }
 
     #menu{

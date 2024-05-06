@@ -9,7 +9,6 @@ body{
     
     margin: 0px;
     padding: 0px;
-    height: 100vh;
 
     background: rgba(212, 212, 212, 0.8);
     background-repeat: no-repeat;
@@ -73,6 +72,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    width: 98%;
 }
 
 
@@ -81,7 +81,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: var(--primary-color);
-    height: 30px;
+    height: 50px;
     margin: 0px 25px;
     padding-left: 20px;
     padding-right: 20px;
@@ -96,7 +96,9 @@ body{
 header{
     grid-area: header;
     display: flex;
-    width: 99%;
+    min-width: 98%;
+    max-width: 98%;
+    height: 80px;
     border:solid rgb(41, 55, 126);
     border-radius: 10px;
     background-color: rgb(41, 55, 126);
@@ -111,13 +113,13 @@ header > img{
 .player{
     background-color:var(--primary-color);
     border: solid 3px var(--second-color);
-    margin: 45px 30px;
+    margin: 60px 30px;
 }
 
 .player2{
     background-color: var(--second-color);
     border: solid 3px var(--primary-color);
-    margin: 45px 30px;
+    margin: 60px 30px;
 }
 
 .player, .player2{
@@ -125,9 +127,10 @@ header > img{
     justify-content: space-around;
     border-radius: 15px;
     border-style:outset;
-    width: 40vw;
-    min-width: 520px;
-    height: 35vh;
+    max-width: 50vw;
+    min-width: 600px;
+    max-height: 25vh;
+    min-height: 400px;
 }
 
 .description{
@@ -136,11 +139,11 @@ header > img{
     justify-content: center;
     align-items: flex-start;
     flex-wrap:nowrap;
-    width:15vw;
-    min-width: 250px;
-    height: 35vh;
-    max-height: 800px;
-    margin: 0px 15px 24px -50px;
+    max-width:20vw;
+    min-width: 300px;
+    max-height: 100vh;
+    min-height: 250px;
+    margin: 24px 15px 24px -30px;
     padding: 0px 10px;
     background: rgb(255, 255, 255, 0.7);
     border-style: none;
@@ -155,15 +158,16 @@ header > img{
     margin: 0px 10px 10px 10px;
     padding: 0px 10px 25px 10px;
     max-width: 20vw;
-    height: 40vh;
+    min-width: 200px;
+    max-height: 50vh;
+    min-height: 450px;
     object-fit: cover;
 }
 
 .name{
     display: flex;
     text-align: center;
-    font-size: 0.9rem;
-    margin-top: 10px;
+    font-size: 1.1rem;
     margin-bottom: -10px;
 }
 
@@ -171,7 +175,7 @@ header > img{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 @media (max-width:768px){
@@ -193,12 +197,6 @@ header > img{
         "Art"
         "footer";
     }
-
-    header{
-        width: 100vw;
-        min-width: 50vw;
-    }
-
 
     .btnMenu{
         width: auto;
@@ -226,8 +224,10 @@ header > img{
         justify-content: space-around;
         align-items: center;
         flex-direction: row;
-        min-width: 95vw;
-        height: 50vh;
+        min-width: 90.25px;
+        max-width: 95vw;
+        max-height: 40vh;
+        min-height: 40vh;
     }
 
     .playerImage > img{
@@ -241,10 +241,10 @@ header > img{
     .description{
         justify-content: center;
         align-items: flex-start;
-        margin: 0px 10px 10px -100px;
-        min-width: 50vw;
+        margin: 10px 10px 10px -100px;
+        min-width: 40vw;
         max-width: 50vw;
-        min-height: 45vh;
+        min-height: 50vh;
     }
 
     .name{
@@ -320,10 +320,10 @@ header > img{
     }
 
     .description{
-        max-width: 90vw;
+        max-width: 80vw;
         min-width: 250px;
         min-height: 30vh;
-        margin: -50px 10px 10px 10px
+        margin: 0px 10px 10px 10px
     }
 
     .playerImage > img{
@@ -331,7 +331,8 @@ header > img{
         margin: 10px 25px;
         min-width: 75vw;
         max-width: 256px;
-        max-height: 45vh;
+        min-height: 50vh;
+        
         
     }
 

@@ -16,7 +16,7 @@ body{
     place-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 2fr 2fr repeat(5,6fr) 1fr;
+    grid-template-rows: 2fr 0.5fr repeat(5,6fr) 1fr;
     grid-template-areas: 
     "header header"
     "menu menu"
@@ -72,7 +72,8 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 98%;
+    min-width: 98%;
+    max-width: 98%;
 }
 
 
@@ -113,13 +114,13 @@ header > img{
 .player{
     background-color:var(--primary-color);
     border: solid 3px var(--second-color);
-    margin: 60px 30px;
+    margin: 60px 20px;
 }
 
 .player2{
     background-color: var(--second-color);
     border: solid 3px var(--primary-color);
-    margin: 60px 30px;
+    margin: 60px 20px;
 }
 
 .player, .player2{
@@ -178,6 +179,10 @@ header > img{
     font-size: 1.3rem;
 }
 
+.info  dt{
+    margin:4px
+}
+
 @media (max-width:768px){
     body{
         grid-template-rows: 0.2fr 0.2fr repeat(10,2fr) 0.2fr;
@@ -224,40 +229,42 @@ header > img{
         justify-content: space-around;
         align-items: center;
         flex-direction: row;
-        min-width: 90.25px;
-        max-width: 95vw;
+        max-width: 90vw;
+        min-width: 700px;
         max-height: 40vh;
-        min-height: 40vh;
+        min-height: 370px;
     }
 
     .playerImage > img{
         padding: 10px 10px 5px 0px;
         margin: 20px;
-        min-width: 40vw;
         max-width: 40vw;
-        min-height: 60vh;
+        min-width: 100px;
+        max-height: 60vh;
+        min-height: 450px;
     }
 
     .description{
         justify-content: center;
         align-items: flex-start;
-        margin: 10px 10px 10px -100px;
-        min-width: 40vw;
-        max-width: 50vw;
-        min-height: 50vh;
+        margin: 10px 0px 10px -80px;
+        max-width: 45vw;
+        min-width: 350px;
+        max-height: 50vh;
+        min-height: 350px;
     }
 
     .name{
         margin-bottom: 10px;
-        font-size: 1.0rem;
+        font-size: 1.3rem;
     }
 
     .info{
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 }
 
-@media (max-width: 480px){
+@media (max-width: 425px){
     body{
         grid-template-rows: 0.2fr 0.2fr repeat(10,2fr) 0.2fr;
         grid-template-columns: 1fr;
@@ -279,13 +286,14 @@ header > img{
 
     header{
         justify-content: center;
-        max-width: 100vw;
-        min-width: 265px;
+        max-width: 99vw;
+        min-width: 430px;
         height: 100px;
     }
 
     header > img{
         width: 50vw;
+        object-fit:scale-down;
     }
 
     #menu{
@@ -314,34 +322,40 @@ header > img{
         flex-direction: column;
         justify-content:center;
         align-items: center;
-        width: 85vw;
-        min-width: 265px;
-        min-height: 100vh;
+        max-width: 85vw;
+        min-width: 350px;
+        max-height: 65vh;
+        min-height: 700px;
     }
 
     .description{
         max-width: 80vw;
-        min-width: 250px;
-        min-height: 30vh;
+        min-width: 300px;
+        max-height: 20vh;
+        min-height: 210px;
         margin: 0px 10px 10px 10px
     }
 
     .playerImage > img{
         padding: 0px 10px 10px 15px;
         margin: 10px 25px;
-        min-width: 75vw;
-        max-width: 256px;
-        min-height: 50vh;
-        
-        
+        max-width: 100vw;
+        min-width: 200px;
+        max-height: 50vh;
+        min-height: 400px;
     }
 
     .name{
-        font-size: 0.8rem;
+        font-size: 0.9rem;
+        margin: ;
     }
 
     .info{
-        font-size: 1.2rem;
+        font-size: 1.3rem;
         margin-top: -25px;
+    }
+
+    .info  dt{
+        margin:4px
     }
 }

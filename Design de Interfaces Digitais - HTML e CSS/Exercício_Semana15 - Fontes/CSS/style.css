@@ -1,0 +1,164 @@
+/*O objetivo do meu site é fazer um resumo biográfico sobre a vida de Alan Turing. Por ser um conteúdo cultural, e mais sério, onde o texto precisa ser descrito de uma forma que facilite a leitura para o usuário, optei por usar a fonte Bitter, ou caso não encontre, qualquer outra fonte serifada. Já nos títulos, utilizei a fonte Archivo Black, que é uma fonte um pouco mais pesada, e que, somada ao alinhamento ao centro, dão mais destaque à eles. O alinhamento do texto a esquerda foi pensado em melhorar a experiência do usuário com a leitura e evitar os rios que se formaram ao tentar utilizar o texto justificado. Nas formatação das letras, utilizo a unidade de medida rem, seguindo a hierarquia, sendo o H1 maior que os H2 e os H2 maiores que os parágrafos. Optei por essa unidade de medida para que mesmo com a diminuição da tela as letras fiquem em um tamanho adequado para a leitura. */
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+.paragraph {
+    color: #FFFFFF;
+    text-align: left;
+    background-color: #00B3EB;
+    font-family: 'Bitter', serif;
+    font-size: 2rem;
+    line-height: 1.2;
+    margin: 50px 25px;
+    padding: 15px;
+}
+
+#rodape {
+    color: #2B3C41;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+div h2 {
+    color: #327E96;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family:'Archivo Black', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 50px 25px;
+    padding: 15px;
+    border-radius: 15px;
+    border-style:solid;
+}
+
+body > header {
+    color: #327E96;
+    background-color: #FFFFFF;
+    font-size: 3.5rem;
+    font-family:'Archivo Black', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    grid-area: cabecalho;
+    margin: 10px;
+    padding: 40px 25px;
+    border-radius: 20px;
+}
+
+a:link {
+    color: #2B3C41;
+}
+
+a:visited {
+    color: #365F6B;
+}
+
+a:hover {
+    color: #209BC0;
+}
+
+a:focus {
+    color: #327E96;
+}
+
+
+body {
+
+    background-color: #00B3EB;
+    display: grid;
+        grid-template-rows: 200px repeat(4, auto) 50px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "cabecalho cabecalho"
+            "pessoal imagemAlan"
+            "profissional importancia"
+            "bombe enigma"
+            "legado legado"
+            "rodape rodape";
+    @media (max-width: 768px){
+        grid-template-rows: 100px repeat(8, auto) 50px;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "cabecalho"
+        "cabecalho"
+        "imagemAlan"
+        "pessoal"
+        "profissional"
+        "importancia"
+        "bombe"
+        "enigma"
+        "legado"
+        "rodape";
+    }
+    @media (max-width: 425px) {
+        
+        grid-template-rows: 100px repeat(8, auto) 50px;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "cabecalho"
+            "cabecalho"
+            "imagemAlan"
+            "pessoal"
+            "profissional"
+            "importancia"
+            "bombe"
+            "enigma"
+            "legado"
+            "rodape";
+    }
+}
+
+div > .separador{
+    color: #FFFFFF;
+    margin: 50px;
+}
+
+#pessoal {
+    grid-area: pessoal;
+}
+
+#profissional {
+    grid-area: profissional;
+}
+
+#importancia {
+    grid-area: importancia;
+}
+
+#bombe {
+    grid-area: bombe;
+}
+
+#enigma {
+    grid-area: enigma;
+}
+
+#legado {
+    grid-area: legado;
+}
+
+.rodape {
+    grid-area: rodape;
+    margin-bottom: 10px;
+}
+
+#imagemAlan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: imagemAlan;
+    margin: 25px;
+}
+
+.imagemAlan {
+    min-width: 25vw;
+    min-height: 80vh;
+    border-radius: 20px;    
+}

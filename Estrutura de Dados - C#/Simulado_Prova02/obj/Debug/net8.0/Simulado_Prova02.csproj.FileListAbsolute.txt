@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\bin\Debug\net8.0\Simulado_Prova02.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\bin\Debug\net8.0\Simulado_Prova02.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\bin\Debug\net8.0\Simulado_Prova02.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\bin\Debug\net8.0\Simulado_Prova02.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\bin\Debug\net8.0\Simulado_Prova02.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\refint\Simulado_Prova02.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\Simulado_Prova02.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Simulado_Prova02\obj\Debug\net8.0\ref\Simulado_Prova02.dll

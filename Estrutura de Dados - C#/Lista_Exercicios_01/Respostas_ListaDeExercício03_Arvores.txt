@@ -1,4 +1,66 @@
-﻿using System.Runtime.InteropServices;
+Aluno: Renan Guedes Brega.
+
+using System;
+using System.Collections.Generic;
+using System.Dynamic;
+using System.Linq;
+using System.Net.WebSockets;
+using System.Threading.Tasks;
+
+namespace Lista_Exercicios_03_Arvores
+{
+    public class Node
+    {
+        private char valor;
+        private Node? left;
+        private Node? right; 
+
+        public char Valor{
+            get { return valor; }
+            set { valor = value;}
+        }
+
+        public Node? Left{
+            get { return left; }
+            set { left = value;}
+        }
+        public Node? Right{
+            get { return right; }
+            set { right = value;}
+        }
+
+        public Node(char value){
+            Valor = value;
+            Left = null;
+            Right = null;
+        }                 
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.Design.Serialization;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Lista_Exercicios_03_Arvores
+{
+    public class Tree
+    {
+        private Node? root;
+
+        public Node? Root{
+            get { return root; }
+            set { root = value; }
+        }
+
+        public Tree(){
+            Root = null;
+        }
+    }
+}
+
+using System.Runtime.InteropServices;
 using System.Xml;
 
 namespace Lista_Exercicios_03_Arvores;

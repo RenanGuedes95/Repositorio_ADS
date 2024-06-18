@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\bin\Debug\net8.0\Lista_Exercicios_03_Arvores.exe
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\bin\Debug\net8.0\Lista_Exercicios_03_Arvores.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\bin\Debug\net8.0\Lista_Exercicios_03_Arvores.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\bin\Debug\net8.0\Lista_Exercicios_03_Arvores.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\bin\Debug\net8.0\Lista_Exercicios_03_Arvores.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\refint\Lista_Exercicios_03_Arvores.dll
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.pdb
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\Lista_Exercicios_03_Arvores.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Repositorio_ADS\Repositorio_ADS\Estrutura de Dados - C#\Lista_Exercicios_03_Arvores\obj\Debug\net8.0\ref\Lista_Exercicios_03_Arvores.dll

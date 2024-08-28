@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainPrincipal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=leitor
+comment2.target=Banco\ cadastrarBanco(java.util.Scanner)
+comment3.params=leitor
+comment3.target=Bancario\ cadastrarBancario(java.util.Scanner)
+comment4.params=leitor\ func\ banco
+comment4.target=void\ verificaLogin(java.util.Scanner,\ Bancario,\ Banco)
+comment5.params=leitor
+comment5.target=void\ Menu(java.util.Scanner)
+numComments=6

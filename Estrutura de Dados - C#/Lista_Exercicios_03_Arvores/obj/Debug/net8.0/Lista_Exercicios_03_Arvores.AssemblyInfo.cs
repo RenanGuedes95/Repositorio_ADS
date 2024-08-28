@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista_Exercicios_03_Arvores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff54fa7ccdd1dace50e4ca7e1bacd29caaeac9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52bbac3e224916ead22d94304d40e37717993972")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista_Exercicios_03_Arvores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista_Exercicios_03_Arvores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
